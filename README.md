@@ -20,7 +20,7 @@
 <h2> Connect with Me </h2>
 <a href="https://github.com/aanchalparegi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Aanchal%20Paregi-e5289e?style=flat-square&logo=github"></a>
 <a href="https://www.linkedin.com/in/aanchalparegi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aanchal%20Paregi-e5289e?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/aan.challll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aanchal_20_-e5289e?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/aan.challll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aan.challll-e5289e?style=flat-square&logo=instagram"></a>
 <a href="mailto:aanchalparegi2803@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aanchalparegi2803@gmail.com-e5289e?style=flat-square&logo=gmail"></a>
 
 
